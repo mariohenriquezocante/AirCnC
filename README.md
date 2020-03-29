@@ -1,0 +1,2 @@
+# AirCnC
+AirCnC é um projeto que permite que empresas disponibilizem salas dentro de seu prédio para que desenvolvedores possam trabalhar ali, cobrando um valor pela diária ou gratuito mesmo, podendo assim descobrir novos talentos e até mesmo novos funcionários! Na pagina Web as empresas podem cadastrar seus ‘Spots’, ou seja, sua empresa com as salas disponíveis e os valores, e no app mobile os usuários podem ver as salas disponíveis de acordo com a tecnologia buscada, e agendar um horário!
